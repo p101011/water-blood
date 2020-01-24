@@ -1,0 +1,26 @@
+[{
+	"Name": "Boaty",
+	"FamilyName": {
+		"Name": "McBoatFace",
+		"Wealth": 100,
+		"Popularity": 0,
+		"Prominence": 0,
+		"Power": 0
+	},
+	"HeldTitle": {
+		"Name": "Tugboat",
+		"Prominence": 0,
+		"Salary": 1,
+		"Power": 0
+	},
+	"Wealth": 0,
+	"Popularity": 10,
+	"Prominence": 10,
+	"Power": 0,
+	"Age": 69,
+	"IsLiving": true,
+	"Attractiveness": 1.0,
+	"Susceptibility": 0,
+	"Fertility": 0.5,
+	"IsHetero": true
+}]
